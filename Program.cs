@@ -13,4 +13,3 @@ while (i <= Valor)
     Console.WriteLine($"\n{i}");
     i++;
 }
-
